@@ -241,3 +241,9 @@ Visited nodes: ['A', 'B', 'E', 'F', 'K']
 ```
 
 En ambos programas, se muestran los estados que deben recorrerse para llegar a la solución, al igual que sus costos.
+
+# Repositorio
+
+El código se encuentra en el siguiente repositorio: [GitHub - salva09/a-star-problems](https://github.com/salva09/a-star-problems)
+
+
